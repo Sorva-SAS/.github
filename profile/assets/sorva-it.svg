@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="180" viewBox="0 0 880 180" role="img" aria-label="SORVA IT">
+  <defs>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C9A227"/>
+      <stop offset="1" stop-color="#38E1FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="880" height="180" fill="#05080F"/>
+  <!-- équerres HUD -->
+  <path d="M 24 40 v -16 h 16" fill="none" stroke="rgba(56,225,255,0.4)" stroke-width="1"/>
+  <path d="M 856 140 v 16 h -16" fill="none" stroke="rgba(56,225,255,0.4)" stroke-width="1"/>
+  <!-- tick de graduation à 45° -->
+  <line x1="52" y1="97" x2="66" y2="83" stroke="#38E1FF" stroke-width="2"/>
+  <text x="84" y="102" font-family="'JetBrains Mono','SFMono-Regular',Menlo,monospace" font-size="44" font-weight="700" letter-spacing="14" fill="#E8F1FF">SORVA IT</text>
+  <text x="86" y="132" font-family="'JetBrains Mono','SFMono-Regular',Menlo,monospace" font-size="13" letter-spacing="4" fill="rgba(232,241,255,0.6)">AGENTIC SYSTEMS · RAG · STOREFRONTS · FIXED PRICE</text>
+  <rect x="86" y="146" width="500" height="1.5" fill="url(#rule)"/>
+</svg>
